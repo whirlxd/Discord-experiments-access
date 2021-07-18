@@ -1,5 +1,5 @@
 # Discord-experiments-access
-A COOL CODE KID
+Access discord experiments
 # How To Use This and What do i need to use this ?
 you need a pc or a mac<br>
 no working with this on android or ios
