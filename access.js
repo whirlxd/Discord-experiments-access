@@ -1,4 +1,5 @@
-//Not my code but no one knows whose code this is
+//please be aware I don't use this 
+//Only for educational purposes
 const DI = window.DiscordInternals;
 const hasLib = !!(DI && DI.versionCompare && DI.versionCompare(DI.version || "", "1.9") >= 0);
     const WebpackModules = hasLib && DI.WebpackModules || (() => {
